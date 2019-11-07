@@ -10,7 +10,7 @@ And this is my website.
 
 I'm a huge fan of Legos, both Duplo and small. The 11th Doctor (Doctor Who) is my favorite and my Halloween costume this year.
 
-![Me as the 11th Doctor](https://flic.kr/p/2hFaycn)
+![Me as the 11th Doctor](https://live.staticflickr.com/65535/49013608491_7c2abcb564_b.jpg)
 
 ```
 console.log('hurray')
