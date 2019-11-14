@@ -12,6 +12,3 @@ I'm a huge fan of Legos, both Duplo and small. The 11th Doctor (Doctor Who) is m
 
 ![Me as the 11th Doctor](https://live.staticflickr.com/65535/49013608491_7c2abcb564_b.jpg)
 
-```
-console.log('hurray')
-```
